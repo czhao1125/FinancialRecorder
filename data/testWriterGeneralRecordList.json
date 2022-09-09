@@ -1,0 +1,16 @@
+{"records": [
+         {
+                  "StoreName": "SaveOnFood",
+                  "ProductName": "Milk",
+                  "Price": 10,
+                  "IsItAnExpenditure": true,
+                  "Date": "2022.02.17"
+         },
+         {
+                  "StoreName": "Saving1",
+                  "ProductName": "Saving1",
+                  "Price": 50,
+                  "IsItAnExpenditure": false,
+                  "Date": "2022.02.18"
+         }
+]}
